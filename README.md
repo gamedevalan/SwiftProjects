@@ -6,3 +6,5 @@
 * Assignment 5 and 6- Ordering pizza using Alert Controllers and storing data using core data and FireBase.
 * Assignment 7- Implementing a countdown timer using mutithreading.
 * Assignment 8- Creating animation from a mouse click and sending notifications.
+* Assignment 9- Small snake game that recognizes gestures such as taps and quad directional swipes.
+* Assignment 10- Implemented camera and photo album functionalities as well as collection view. 
